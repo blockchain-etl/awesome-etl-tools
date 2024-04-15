@@ -12,4 +12,4 @@ Awesome ETL tools for blockchain data
 - [Goldsky Mirror](https://goldsky.com/products/mirror) - Real-time data pipelines for blockchain and subgraph data with SQL transforms and on-the-fly decoding. 
 - [QuickNode Streams](https://www.quicknode.com/streams) - Optimized streaming,
 with guaranteed delivery
-- [HyperSync](https://docs.envio.dev/docs/hypersync-clients) - Low-level, extremely efficient API with Javascript, Python or Rust client.
+- [HyperSync](https://docs.envio.dev/docs/hypersync-clients) - Low-level, extremely fast and efficient API with Javascript, Python or Rust clients.
